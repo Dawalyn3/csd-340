@@ -1,0 +1,16 @@
+/* Place your CSS styles in this file */
+
+h1 { <link rel="stylesheet" href="site.css">
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
+} <body>
+ <h1>Dawalyn Harper CSD 340 Landing Page</h1>
+  <div id="container">
+   <hr>
+    <!-- Your content goes here -->
+ <h2>CSD 340 Web Development with HTML and CSS</h2>
+  <h3>Module Assignments</h3>
+  
+  </div>
+</body>
